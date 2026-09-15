@@ -1,6 +1,7 @@
 # Body Fat Percentage Predictor
 
 **Live App:** https://body-fat-predictor-vxt4uvqxblppabud22qmrn.streamlit.app
+**Full Technical Analysis:** [View analysis](analysis.md)
 
 A machine learning project that predicts body fat percentage from body measurements.
 
